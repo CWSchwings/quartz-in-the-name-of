@@ -6,14 +6,14 @@
 
 ## The Party
 
-| Character | Species | Class | Background |
-|-----------|---------|-------|------------|
-| [[Pot]] | Tabaxi | Monk | Crow's nest pirate. Born on the sea. |
-| [[Bishop]] | Bullywug | Artificer | Mute. Anti-imperialist. Lost his friends. Doesn't know they're alive. |
-| [[Rene]] | Human | Ranger | Former [[Order of Bone]]. On the run. Carries guilt well. |
-| [[Bennett]] | Human | Gunslinger | Ember Alliance legacy. Six parents, three dead. Born running. |
-| [[Caspian]] | Human | Pugilist | Navy sailor. Act first. Half-siren and doesn't know it. |
-| [[Johanna]] | Halfling | Rogue | Former pirate, former navy, current problem. Has a bracelet she doesn't fully understand. |
+| Character   | Species  | Class      | Background                                                            |
+| ----------- | -------- | ---------- | --------------------------------------------------------------------- |
+| [[Pot]]     | Tabaxi   | Monk       | Crow's nest pirate. Born on the sea.                                  |
+| [[Bishop]]  | Bullywug | Artificer  | Mute. Anti-imperialist. Lost his friends. Doesn't know they're alive. |
+| [[Rene]]    | Human    | Ranger     | Former [[Order of Bone]]. On the run. Carries guilt well.             |
+| [[Bennett]] | Human    | Gunslinger | Ember Alliance legacy. Six parents, three dead. Born running.         |
+| [[Caspian]] | Human    | Pugilist   | Navy sailor. Act first. Half-siren and doesn't know it.               |
+| [[Johanna]] | Halfling | Rogue      | Former pirate, former navy, current problem.                          |
 
 ## The Ship
 
