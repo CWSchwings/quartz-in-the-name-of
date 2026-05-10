@@ -49,13 +49,15 @@ Obsidian will load all the wiki pages. You can browse, search, and edit them fro
 
 The plugin documentation is at [publish.obsidian.md/git-doc](https://publish.obsidian.md/git-doc/Start+here).
 
-### Step 4 — Pull, Edit, and Push
+### Step 4 — Branch, Edit, and Submit
 
-- **Pull** before you start editing to get the latest changes: use the command palette (`Ctrl+P` / `Cmd+P`) and run **Obsidian Git: Pull**.
-- Make your edits. Each page is a Markdown file in the `content` folder.
-- When you are done, commit and push: run **Obsidian Git: Create backup** (or use the dedicated commit and push commands) from the command palette.
+1. Open the command palette (`Ctrl+P` / `Cmd+P`) and run **Obsidian Git: Create new branch**. Give it a short name (e.g. your name or the page you're editing).
+2. Pull the latest changes: run **Obsidian Git: Commit-and-sync** — this also pulls before pushing.
+3. Make your edits.
+4. When done, open the command palette and run **Obsidian Git: Commit-and-sync** again. This commits your changes, pulls any updates, and pushes your branch to GitHub.
+5. Go to the repository on GitHub. You'll see a prompt to open a pull request from your branch — click it and submit.
 
-Your changes will be live on the site within a few minutes after pushing.
+Changes go live on the site after the pull request is reviewed and merged.
 
 ### Tips
 
