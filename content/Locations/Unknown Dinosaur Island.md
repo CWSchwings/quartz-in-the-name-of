@@ -36,4 +36,4 @@ The island itself remains. The [[Calvatharn]] camp is destroyed. The [[Order of 
 
 ---
 
-*See also: [[Zylandrom]], [[Calvatharn]], [[Captains]], [[Session 01 - A Three-Hour Tour]]*
+*See also: [[Zylandrom]], [[Calvatharn]], [[Captains]], [[Session 1 - A Three-Hour Tour]]*

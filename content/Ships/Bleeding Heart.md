@@ -1,6 +1,7 @@
 # Bleeding Heart
 
 **Formerly:** *[[Khalvyn's Sacrifice]]*  
+**Subsequently:** *[[Broken Heart]]*
 **Affiliation:** [[Captains]]
 
 ---

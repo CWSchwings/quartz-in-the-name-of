@@ -20,4 +20,4 @@ When [[Pot]] came to her with concerns about possible lycanthropy after the wolf
 
 ---
 
-*See also: [[Calvatharn]], [[Unknown Dinosaur Island]], [[Pot]], [[Session 03 - Can You Hear the People Sing]]*
+*See also: [[Calvatharn]], [[Unknown Dinosaur Island]], [[Pot]], [[Session 3 - Can You Hear the People Sing]]*

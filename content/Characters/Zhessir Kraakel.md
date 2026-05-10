@@ -7,7 +7,7 @@
 
 ---
 
-Zhessir Kraakel is a ravenfolk scout who was stranded on the [[Unknown Dinosaur Island]] as part of the group of castaways there before the party arrived. Her group was heading for [[Vahtari]] — looking for somewhere better, though they had not found it yet.
+Heading to [[Vahtari]]. Left looking for somewhere better, but haven't found it.
 
 ---
 

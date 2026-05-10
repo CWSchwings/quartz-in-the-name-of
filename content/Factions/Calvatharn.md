@@ -25,4 +25,4 @@ The party carries a forged [[Calvatharn]] identity: **Senior Metallurgist Ha Zel
 
 ---
 
-*See also: [[Unknown Dinosaur Island]], [[Thebrin Quass]], [[Bishop]], [[Tir Zafiri]], [[Session 02 - Ambushed in the Brush]]*
+*See also: [[Unknown Dinosaur Island]], [[Thebrin Quass]], [[Bishop]], [[Tir Zafiri]], [[Session 2 - Ambushed in the Brush]]*

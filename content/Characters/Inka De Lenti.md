@@ -3,15 +3,12 @@
 **Species:** Human  
 **Gender:** Nonbinary  
 **Occupation:** Scribe  
-**Affiliation:** [[De Lenti Family]]  
-**Location:** [[Draekara]], [[Zhelesyr]]
+**Status:** Alive, but doing poorly due to injury
 
 ---
 
-Inka De Lenti is one of [[Bennett]]'s living parents — a human, nonbinary scribe. They are friendly toward Bennett and her crew.
-
-Inka is alive but doing poorly due to an injury. The nature of the injury has not been elaborated on in detail.
+Friendly with [[Bennett]].
 
 ---
 
-*See also: [[Bennett]], [[Faustus De Lenti]], [[Mayari De Lenti]], [[Draekara]]*
+*See also: [[Bennett]], [[Faustus De Lenti]], [[Mayari De Lenti]]*

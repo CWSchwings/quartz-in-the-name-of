@@ -1,6 +1,6 @@
 # Adrian Almenaj
 
-**Species:** Human  
+**Species:** [[Human]]
 **Gender:** Male  
 **Origin:** [[Vallume]]  
 **Affiliation:** Philosophy of Valor

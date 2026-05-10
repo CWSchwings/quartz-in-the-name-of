@@ -34,4 +34,4 @@ He is anti-imperial. The [[Order of Bone]] is an institution of control. These f
 
 ---
 
-*See also: [[B'Rieph]], [[Bauble]], [[Captains]], [[Calvatharn]], [[Session 02 - Ambushed in the Brush]]*
+*See also: [[B'Rieph]], [[Bauble]], [[Captains]], [[Calvatharn]], [[Session 2 - Ambushed in the Brush]]*

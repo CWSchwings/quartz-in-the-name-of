@@ -5,7 +5,7 @@
 
 ---
 
-The *Celestial Shield* is the flagship of **[[Zara Firebeard]]**, one of the captains of the [[Emerald Expansion]]. A tattoo and piercing artist named Zephara Starink operates aboard this ship.
+Zephara Starink (tattoo/piercing artist) operates aboard this ship.
 
 ---
 

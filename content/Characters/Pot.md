@@ -28,4 +28,4 @@ He has not told everyone. He told [[Bennett]]. He discussed keeping a schedule a
 
 ---
 
-*See also: [[Captains]], [[Khalvyn's Sacrifice]], [[Thebrin Quass]], [[Corren Saithe]], [[Session 01 - A Three-Hour Tour]]*
+*See also: [[Captains]], [[Khalvyn's Sacrifice]], [[Thebrin Quass]], [[Corren Saithe]], [[Session 1 - A Three-Hour Tour]]*

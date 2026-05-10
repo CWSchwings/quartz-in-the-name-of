@@ -3,7 +3,36 @@
 *Sunken Vallumite ships. A war in the harbor. Thebrin's list. Bennett is knighted.*
 
 ---
+**
 
+# Session ??: 
+
+# April 20 2026
+
+  
+
+Rene goes to talk with Shadowfin before leaving; Shadowfin is remaining behind to watch the keep and maintain communications with the criminal group that will be using it for Jo
+
+  
+
+Pulling into Tir Zafiri, we come across a large naval battle that looks like its between Vallume and Tir Zafiri - we find out that Calvatharn and Tir Zafiri have made an alliance
+
+Happened 3-4 months ago
+
+Currently no other countries appear to be in the same alliance
+
+  
+
+Vallume and Darathia are allied in opposition
+
+  
+  
+
+Dashiell Howell - high ranking tir zafiri official against the alliance
+
+  
+  
+**
 ## Session 40 — Tir Zafiri
 
 Arriving back in [[Tir Zafiri]], the party found sunken [[Vallume]] ships off the coast. The naval war between [[Vallume]] and the [[Calvatharn]]-[[Tir Zafiri]] alliance was visible in the harbor.
