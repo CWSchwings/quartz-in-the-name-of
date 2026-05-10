@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 First Mate of the [[Zns Thalassir]].  
 "The Shark"  

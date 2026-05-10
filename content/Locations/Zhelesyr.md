@@ -1,3 +1,4 @@
-﻿---
-draft: "true"
 ---
+draft: false
+---
+Monarchy under the [[Thalorian Dynasty]]

@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Captain of the [[Tulip Blossom]]  
 Vallume

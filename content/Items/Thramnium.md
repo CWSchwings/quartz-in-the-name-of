@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Thramnium is an extremely strong and resilient metal by weight, with the added benefit of a cumulative limited magical corruption resistance (it is able to absorb a certain amount of magical corruption during its lifetime with no ill effect).
 

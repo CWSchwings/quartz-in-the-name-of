@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 [[Zephara Starink]] Tattoo/piercing artist.
 

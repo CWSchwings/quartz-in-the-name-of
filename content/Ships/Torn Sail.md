@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Location: Between Myrenthal and Tir Zafiri
 Captain: Elara

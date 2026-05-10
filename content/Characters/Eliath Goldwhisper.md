@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Status: Alive
 Location: On the way to Myrrenthal

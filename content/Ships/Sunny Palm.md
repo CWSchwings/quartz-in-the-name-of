@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Flag: Yellow palm tree on a green field  
 Nationality: [[Tir Zafiri]]  

@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 [[Female]] [[Elf]] [[Fighter]] [[Battlemaster]]  
 Friendly with [[Bennett]]  

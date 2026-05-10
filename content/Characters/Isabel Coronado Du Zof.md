@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Captain of the [[Zns Thalassir]]  
 Fifth child of the [[Coronado Family]] with no innate talents or hope of becoming the family head.  

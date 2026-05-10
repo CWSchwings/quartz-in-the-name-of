@@ -1,4 +1,4 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Dockmaster of [[Vallumos]]

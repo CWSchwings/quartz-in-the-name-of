@@ -1,4 +1,4 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Captained by [[Naela Corvessa]]

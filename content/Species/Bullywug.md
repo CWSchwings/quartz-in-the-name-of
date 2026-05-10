@@ -1,4 +1,4 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Phenotype of [[Amphibianfolk]]

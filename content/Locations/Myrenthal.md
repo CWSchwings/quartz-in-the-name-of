@@ -1,3 +1,4 @@
-﻿---
-draft: "true"
 ---
+draft: false
+---
+Rival of [[Calvatharn]]

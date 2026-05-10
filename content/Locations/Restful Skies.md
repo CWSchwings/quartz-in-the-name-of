@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 Location: Tir Zafiri
 Type: Inn/Tavern

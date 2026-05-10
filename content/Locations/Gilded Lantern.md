@@ -1,6 +1,7 @@
-﻿---
-draft: "true"
 ---
+draft: false
+---
+Run by [[Marda Kynfell]]
 Location: Myrrenthal
 Type: Inn/Tavern
 

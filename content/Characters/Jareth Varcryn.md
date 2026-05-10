@@ -1,6 +1,8 @@
-﻿---
-draft: "true"
 ---
+draft: false
+---
+
+Head of the [[Order Of Bone]] in [[Zhelesyr]]
 Status: Alive
 Location: Zhelesyr
 Pronouns: He/Him

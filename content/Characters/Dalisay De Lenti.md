@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 [[Female]] [[Halfling]] [[Sailor]]  
 No relationship with [[Bennett]]  

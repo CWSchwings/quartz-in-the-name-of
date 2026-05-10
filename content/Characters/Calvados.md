@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 [[Nonbinary]]  
 Bartender of the [[Salty Gull]] and one time paramour of [[Johanna]]  

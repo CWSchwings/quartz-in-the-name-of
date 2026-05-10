@@ -1,5 +1,5 @@
-﻿---
-draft: "true"
+---
+draft: false
 ---
 [[Female]] [[Pirate]] Captain  
 Mostly legendary  

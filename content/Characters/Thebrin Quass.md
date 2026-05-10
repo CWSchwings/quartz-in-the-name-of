@@ -1,6 +1,8 @@
-﻿---
-draft: "true"
 ---
+draft: false
+---
+
+[[Elf]]
 Status: Alive
 Location: On the ship
 Pronouns: She/Her
