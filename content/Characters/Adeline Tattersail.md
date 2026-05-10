@@ -1,5 +1,1 @@
-# Adeline Tattersail
-
-No information recorded yet.
-
----
+Captain of the [[Silver Tooth]]
