@@ -1,4 +1,4 @@
----
+﻿---
 title: ObsidianFlavoredMarkdown
 tags:
   - plugin/transformer
@@ -32,4 +32,4 @@ This plugin accepts the following configuration options:
 
 - Category: Transformer
 - Function name: `Plugin.ObsidianFlavoredMarkdown()`.
-- Source: [`quartz/plugins/transformers/ofm.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/transformers/ofm.ts)
+- Source: [`quartz/plugins/transformers/ofm.ts`](https://github.com/jackyzha0/quartz/blob/main/quartz/plugins/transformers/ofm.ts)

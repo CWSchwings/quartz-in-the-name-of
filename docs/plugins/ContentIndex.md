@@ -1,4 +1,4 @@
----
+﻿---
 title: ContentIndex
 tags:
   - plugin/emitter
@@ -24,4 +24,4 @@ This plugin accepts the following configuration options:
 
 - Category: Emitter
 - Function name: `Plugin.ContentIndex()`.
-- Source: [`quartz/plugins/emitters/contentIndex.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/contentIndex.ts).
+- Source: [`quartz/plugins/emitters/contentIndex.ts`](https://github.com/jackyzha0/quartz/blob/main/quartz/plugins/emitters/contentIndex.ts).

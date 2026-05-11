@@ -1,4 +1,4 @@
----
+﻿---
 title: "Migrating from Quartz 3"
 ---
 
@@ -6,8 +6,8 @@ As you already have Quartz locally, you don't need to fork or clone it again. Si
 
 ```bash
 git fetch
-git checkout v4
-git pull upstream v4
+git checkout main
+git pull upstream main
 npm i
 npx quartz create
 ```
@@ -33,7 +33,7 @@ When running `npx quartz create`, you will be prompted as to how to initialize y
 ## Things to update
 
 - You will need to update your deploy scripts. See the [[hosting]] guide for more details.
-- Ensure that your default branch on GitHub is updated from `hugo` to `v4`.
+- Ensure that your default branch on GitHub is updated from `hugo` to `main`.
 - [[folder and tag listings|Folder and tag listings]] have also changed.
   - Folder descriptions should go under `content/<folder-name>/index.md` where `<folder-name>` is the name of the folder.
   - Tag descriptions should go under `content/tags/<tag-name>.md` where `<tag-name>` is the name of the tag.

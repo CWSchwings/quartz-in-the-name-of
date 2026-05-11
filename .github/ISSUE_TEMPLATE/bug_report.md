@@ -1,4 +1,4 @@
----
+﻿---
 name: Bug report
 about: Something about Quartz isn't working the way you expect
 title: ""
@@ -30,7 +30,7 @@ You can help speed up fixing the problem by either
 
 **Desktop (please complete the following information):**
 
-- Quartz Version: [e.g. v4.1.2]
+- Quartz Version: [e.g. main.1.2]
 - `node` Version: [e.g. v18.16]
 - `npm` version: [e.g. v10.1.0]
 - OS: [e.g. iOS]
