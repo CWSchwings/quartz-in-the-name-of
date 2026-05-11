@@ -1,5 +1,9 @@
 ---
 draft: false
+tags:
+  - Male
+  - Humanoid/Halfling
+  - Alive
 ---
 Older brother of [[Johanna]].  
 Captain in the [[Tir Zafiri Navy]].  
@@ -7,10 +11,6 @@ Arranged for [[Johanna]] to be put to work for the [[Tir Zafiri Navy]] inste
 Knew he would be forced into the [[Tir Zafiri Navy]] eventually. Decided to join first and try to excel.  
 Was a kind child. Has grown hard.
 
-Status: Alive
-Location: On the way to Myrrenthal
-Pronouns: He/Him
-Race: Halfling
 Profession: Naval captain
 
 Works for the Tir Zafiri navy and Johanna's brother

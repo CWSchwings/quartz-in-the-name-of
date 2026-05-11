@@ -1,10 +1,12 @@
 ---
 draft: false
+tags:
+  - Alive
+  - Humanoid/Human
+  - Male
 ---
-Status: Alive
-Location: On the ship
+Location: [[Broken Heart]]
 Profession: Mage
-[[Human]] [[Male]] [[Mage]]  
 Mostly skilled with Abjuration magic.  
 Avoids using magic around others when possible.
-The sole survivor of the Moon's Threnody. He practices magic
+The sole survivor of the [[Moons' Threnody]]. He practices magic

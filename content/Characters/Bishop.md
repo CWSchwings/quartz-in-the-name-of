@@ -1,5 +1,11 @@
 ---
 draft: false
+tags:
+  - Amphibianfolk/Bullywug
+  - Male
+  - Cisgender
+  - Heterosexual
+  - Artificer
+  - Pirate
 ---
-[[Bullywug]] [[Male]] [[Cisgender]] [[Heterosexual]] [[Artisan]] [[Artificer]]  
-Mute Pirate
+Mute

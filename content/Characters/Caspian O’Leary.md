@@ -1,7 +1,11 @@
 ---
 draft: false
+tags:
+  - Humanoid/Human
+  - Male
+aliases:
+  - Caspian
 ---
-Caspian O’Leary  
 [[Human]] navy sailor pugilist rigging runner.  
 22 years old  
 Tanned skin, green tint  

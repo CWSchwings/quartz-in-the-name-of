@@ -9,7 +9,7 @@ aliases:
 ---
 Current Captains:
 [[Bennett]]
-[[Caspian]]
+[[Caspian O’Leary]]
 [[Johanna]]
 [[Pot]]
 [[Rene]]
