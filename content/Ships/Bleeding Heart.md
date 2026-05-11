@@ -2,7 +2,8 @@
 draft: false
 aliases:
   - Khalvyn's Sacrifice
+tags:
+  - Ship
 ---
-Location: On route to Zhelesyr
-Captain: The Party
-Formerly the [[Khalvyn's Sacrifice]]
+Location Unknown
+Captain: [[Dorian Whiteshade]]

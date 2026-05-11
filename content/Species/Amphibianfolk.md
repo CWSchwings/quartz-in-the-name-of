@@ -1,6 +1,7 @@
 ---
 draft: false
+tags:
+  - Amphibianfolk
 ---
-Species.  
 Native to [[Zylandrom]]  
 Maximum lifespan of 70 years.

@@ -1,9 +1,10 @@
 ---
 draft: false
+tags:
+  - Ship
 ---
-[[Zephara Starink]] Tattoo/piercing artist.
-
-Location: With the party
-Captain: Zahara Firebeard
-
+Part of the [[Emerald Expansion]]
+Captain: [[Zara Firebeard]]
+Crew:
+[[Zephara Starink]] - Tattoo/piercing artist.
 One of the ships in the Emerald Expansion

@@ -1,6 +1,7 @@
 ---
 draft: false
+tags:
+  - Humanoid
 ---
-Species  
 Native to [[Arctoriam]]  
 Maximum lifespan of approximately 90 years

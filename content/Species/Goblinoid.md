@@ -1,6 +1,7 @@
 ---
 draft: false
+tags:
+  - Goblinoid
 ---
-Species  
 Native to [[Arctoriam]]  
 Maximum lifespan of approximately 45 years.
