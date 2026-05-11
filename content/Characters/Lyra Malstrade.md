@@ -1,3 +1,6 @@
-﻿---
-draft: "true"
+---
+draft: false
+tags:
+  - Humanoid/Human
+  - Aasimar
 ---

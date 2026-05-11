@@ -1,4 +1,9 @@
 ---
 draft: false
+tags:
+  - Humanoid/Human
+  - Female
+  - Arctorian/Tir_Zafiran
+  - Alive
 ---
-Captain of the [[Silver Tooth]]
+Captain of the [[Moonlit Grave]]

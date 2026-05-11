@@ -1,5 +1,10 @@
 ---
 draft: false
+tags:
+  - Alive
+  - Male
+  - Zylandrom/Fogwatch_Hollow
+  - Arctoriam/Vallume
 ---
 Timeline:  
 Married [[Lyra Malstrade]] Aasimar  
