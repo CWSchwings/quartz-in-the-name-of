@@ -1,4 +1,9 @@
 ---
 draft: false
+tags:
+  - Ship
+  - Pirate
 ---
-[[Johanna]]'s old pirate ship, helmed by Captain [[Adeline Tattersail]]. The boat is known to pick up crew recommended by the [[Tidebreakers]], but they’re not often in town.
+[[Johanna]]'s old pirate ship, helmed by Captain [[Adeline Tattersail]]. 
+Based out of [[Tir Zafiri]], but not often in town.
+Known to pick up crew recommended by the [[Tidebreakers]].

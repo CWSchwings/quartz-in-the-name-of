@@ -1,5 +1,10 @@
 ---
-draft: "true"
+draft: false
+tags:
+  - Male
+  - Humanoid/Halfling
+  - Arctorian/Tir_Zafiran
+  - Alive
 ---
 [[Johanna]]'s Adoptive father.  
 Left for parts unknown when [[Johanna]] was very young.  
