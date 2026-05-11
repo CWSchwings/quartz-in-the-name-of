@@ -1,8 +1,10 @@
 ---
 draft: false
 ---
-[[Caspian]] [[Pot]]  
-[[Bishop]]  
-[[Johanna]]  
-[[Rene]]  
-[[Bennett]]
+
+| [[Caspian]] | [[Pot]] |
+| ----------- | ------- |
+| [[Vinnie]]  |         |
+| [[Johanna]] |         |
+| [[Rene]]    |         |
+| [[Bennett]] |         |
