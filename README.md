@@ -18,21 +18,27 @@ Players are welcome to contribute. The wiki is built from a folder of Markdown f
 
 ### What You Need
 
+- A [GitHub account](https://github.com/signup) (free)
 - [Git](https://git-scm.com/downloads) installed on your machine
 - [Obsidian](https://obsidian.md/) (free desktop app)
 - The [Obsidian Git plugin](https://publish.obsidian.md/git-doc/Start+here)
 
-### Step 1 — Clone the Repository
+### Step 1 — Fork the Repository
 
-Open a terminal and run:
+1. Go to [github.com/dtietze/quartz-in-the-name-of](https://github.com/dtietze/quartz-in-the-name-of).
+2. Click **Fork** (top right). This creates your own copy of the wiki under your GitHub account.
+
+### Step 2 — Clone Your Fork
+
+Open a terminal and run, replacing `YOUR_USERNAME` with your GitHub username:
 
 ```bash
-git clone https://github.com/dtietze/quartz-in-the-name-of.git
+git clone https://github.com/YOUR_USERNAME/quartz-in-the-name-of.git
 ```
 
-This downloads the full wiki to your machine.
+This downloads the wiki to your machine.
 
-### Step 2 — Open as an Obsidian Vault
+### Step 3 — Open as an Obsidian Vault
 
 1. Open Obsidian.
 2. Click **Open folder as vault**.
@@ -40,7 +46,7 @@ This downloads the full wiki to your machine.
 
 Obsidian will load all the wiki pages. You can browse, search, and edit them from within the app.
 
-### Step 3 — Install the Obsidian Git Plugin
+### Step 4 — Install the Obsidian Git Plugin
 
 1. In Obsidian, open **Settings** (gear icon in the bottom left).
 2. Go to **Community plugins** and turn off Safe Mode if prompted.
@@ -49,13 +55,11 @@ Obsidian will load all the wiki pages. You can browse, search, and edit them fro
 
 The plugin documentation is at [publish.obsidian.md/git-doc](https://publish.obsidian.md/git-doc/Start+here).
 
-### Step 4 — Branch, Edit, and Submit
+### Step 5 — Edit and Submit
 
-1. Open the command palette (`Ctrl+P` / `Cmd+P`) and run **Obsidian Git: Create new branch**. Give it a short name (e.g. your name or the page you're editing).
-2. Pull the latest changes: run **Obsidian Git: Commit-and-sync** — this also pulls before pushing.
-3. Make your edits.
-4. When done, open the command palette and run **Obsidian Git: Commit-and-sync** again. This commits your changes, pulls any updates, and pushes your branch to GitHub.
-5. Go to the repository on GitHub. You'll see a prompt to open a pull request from your branch — click it and submit.
+1. Make your edits in Obsidian.
+2. When done, open the command palette (`Ctrl+P` / `Cmd+P`) and run **Obsidian Git: Commit-and-sync**. This commits your changes and pushes them to your fork on GitHub.
+3. Go to your fork on GitHub. You'll see a prompt to open a pull request — click it and submit.
 
 Changes go live on the site after the pull request is reviewed and merged.
 
