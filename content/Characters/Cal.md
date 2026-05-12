@@ -1,5 +1,6 @@
 ---
 draft: false
+tags:
+  - Alive
 ---
-Status: Alive
-Location: Varashir
+Location: [[Varashir]]

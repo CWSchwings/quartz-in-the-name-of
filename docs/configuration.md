@@ -1,4 +1,4 @@
----
+﻿---
 title: Configuration
 ---
 
@@ -107,7 +107,7 @@ transformers: [
 ]
 ```
 
-Some plugins are included by default in the [`quartz.config.ts`](https://github.com/jackyzha0/quartz/blob/v4/quartz.config.ts), but there are more available.
+Some plugins are included by default in the [`quartz.config.ts`](https://github.com/jackyzha0/quartz/blob/main/quartz.config.ts), but there are more available.
 
 You can see a list of all plugins and their configuration options [[tags/plugin|here]].
 

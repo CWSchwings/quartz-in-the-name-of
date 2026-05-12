@@ -1,6 +1,8 @@
 ---
 draft: false
+tags:
+  - Alive
+  - Pirate
+  - Zylandrom/Blacktide_Refuge
 ---
-Status: Alive
-
-The pirate captain in charge
+Captain of [[Blacktide Refuge]]

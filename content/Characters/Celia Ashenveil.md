@@ -1,4 +1,7 @@
 ---
 draft: false
+tags:
+  - Female
+  - Tiefling
+  - Humanoid/Human
 ---
-[[Female]] [[Tiefling]] [[Tough Boss]]

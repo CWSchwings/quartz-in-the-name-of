@@ -7,3 +7,13 @@ aliases:
   - Captains of the Broken Heart
   - Captains of the Take Heart
 ---
+Current Captains:
+[[Bennett]]
+[[Caspian O’Leary]]
+[[Johanna]]
+[[Pot]]
+[[Rene]]
+[[Vinnie]]
+
+Former Captains:
+[[Bishop]]

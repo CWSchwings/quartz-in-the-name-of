@@ -1,8 +1,8 @@
 ---
 draft: false
+tags:
+  - Alive
+  - Zylandrom/Thistlebrook
+  - Male
 ---
-Status: Alive
-Location: Thistlebrook
-Pronouns: He/Him
-
-A local citizen of Thistlebrook Rennee got attached to
+A local citizen of [[Thistlebrook]] [[Rene]] got attached to.

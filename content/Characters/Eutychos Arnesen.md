@@ -1,6 +1,7 @@
 ---
 draft: false
+tags:
+  - Alive
+  - Arctorian/Calvatharnian
 ---
-Status: Alive
-
-A Kalavatharn scientist in charge of the search for Myara Varris
+A [[Calbvatharnian]] scientist in charge of the search for [[Myara Varris]]

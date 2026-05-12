@@ -1,6 +1,8 @@
 ---
 draft: false
+tags:
+  - Dead
+  - Male
+  - Humanoid/Human
 ---
-[[Male]] [[Human]]  
-No relationship with [[Bennett]]  
-Deceased
+One of [[Bennett]]'s parents.

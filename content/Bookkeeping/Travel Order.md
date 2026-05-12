@@ -2,7 +2,7 @@
 draft: false
 ---
 
-| [[Caspian]] | [[Pot]] |
+| [[Caspian O’Leary]] | [[Pot]] |
 | ----------- | ------- |
 | [[Vinnie]]  |         |
 | [[Johanna]] |         |

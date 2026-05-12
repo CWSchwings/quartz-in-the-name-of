@@ -1,4 +1,6 @@
 ---
-draft: "true"
+draft: false
+tags:
+  - Humanoid/Human
 ---
-[[Human]] Bodyguard on a merchant vessel
+Bodyguard on a merchant vessel.

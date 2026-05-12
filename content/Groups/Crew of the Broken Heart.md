@@ -7,3 +7,4 @@ aliases:
   - Crew of the Take Heart
   - Crew of the Broken Heart
 ---
+In addition to the [[Captains of the Broken Heart]], the crew includes several notable members:

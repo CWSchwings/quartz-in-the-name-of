@@ -1,6 +1,9 @@
 ---
 draft: false
+tags:
+  - Female
+  - Humanoid/Halfling
+  - Dead
 ---
-[[Female]] [[Halfling]] [[Sailor]]  
-No relationship with [[Bennett]]  
-Deceased
+Sailor
+One of [[Bennett]]'s parents.

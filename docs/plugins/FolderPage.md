@@ -1,4 +1,4 @@
----
+﻿---
 title: FolderPage
 tags:
   - plugin/emitter
@@ -21,4 +21,4 @@ This plugin accepts the following configuration options:
 
 - Category: Emitter
 - Function name: `Plugin.FolderPage()`.
-- Source: [`quartz/plugins/emitters/folderPage.tsx`](https://github.com/jackyzha0/quartz/blob/v4/quartz/plugins/emitters/folderPage.tsx).
+- Source: [`quartz/plugins/emitters/folderPage.tsx`](https://github.com/jackyzha0/quartz/blob/main/quartz/plugins/emitters/folderPage.tsx).
