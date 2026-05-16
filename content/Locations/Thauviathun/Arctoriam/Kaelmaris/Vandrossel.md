@@ -2,4 +2,4 @@
 draft: false
 ---
 Primary headquarters of [[Order Of Bone]].  
-City in [[Kaelmaris]]
+City in [[Locations/Kaelmaris]]

@@ -1,4 +1,4 @@
 ---
 draft: false
 ---
-Borders [[Kaelmaris]] on the ocean.
+Borders [[Locations/Kaelmaris]] on the ocean.
