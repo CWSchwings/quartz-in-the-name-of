@@ -1,0 +1,1 @@
+A metallic, spherical artifact that opens enough to allow a person to submerge themselves in the waters within. Evidently stripped [[Thalia Stormrider]] of her body and turned her into a star-being. 
