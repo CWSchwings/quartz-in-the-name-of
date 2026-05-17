@@ -3,7 +3,6 @@ draft: false
 aliases:
   - Vallumite
 ---
-Nation in centrally location in the main continent of [[Arctoriam]]
 # Culture
 Image is very important to a Vallumite, as is being seen to be virtuous.
 ## Etiquette
@@ -25,7 +24,7 @@ Vallume's economy is relatively weak due to their size. While they produce an en
 
 Vallume is generally a bit technologically stagnated except in military technology. It's not that its people are stupid, just that their brightest minds are often focused on their military.
 # Geography
-Vallume is vast, and contains most imaginable terrains. It borders [[Kaelmaris]], cutting it off from the ocean. 
+Vallume is a vast nation in a central location in the main continent of [[Arctoriam]], and contains most imaginable terrains. It borders [[Kaelmaris]], cutting it off from the ocean. 
 # Government
 Vallume is an elective absolute monarchy, with all the members of the royal family (and a few influential other families who have somehow earned the privilege) electing a new ruler from amongst themselves when the old ruler dies or abdicates. The old ruler will often indicate a favored successor, and this choice is often, but not always, upheld by the electors. Once elected, the ruler has absolute power.
 ## Crime

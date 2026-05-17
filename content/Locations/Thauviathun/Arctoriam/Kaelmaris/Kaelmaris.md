@@ -2,7 +2,6 @@
 aliases:
   - Kaelmarin
 ---
-Nation in the Northern main continent of [[Arctoriam]]
 # Culture
 ## Ideal
 Competence is the ideal that each Kaelmarin strives for. Each individual is expected to excel in their own field, and failure in that field is considered unacceptable. An individual that fails will often undertake an impossible task of some sort to attempt to prove their capability. If they succeed, their failure will be forgiven, and if they fail, they are often considered lost to Kaelmaris. 
@@ -18,7 +17,7 @@ Kaelmaris's main industries are artisan and mercenary. Their craftsmen are consi
 ## Order of Bone Agents
 Among the most prized of Kaelmarin mercenaries are the Order of Bone agents. The Order of Bone recruits a large number of their agents, though not their knights, from Kaelmarins specifically trained for that role. Their self-reliance is as much of an asset as it is a nuisance for the Order of Bone, and they lease these units from Kaelmaris for a large annual sum. 
 # Geography
-Kaelmaris lacks any significant natural resources, and their ability to farm is limited by their mountainous geography. 
+Kaelmaris is a nation in the Northern main continent of [[Arctoriam]]. It lacks any significant natural resources, and their ability to farm is limited by their mountainous geography. 
 # Government
 Kaelmaris is an authoritarian meritocracy. The government proscribes the distribution and use of resources, the life-path of each individual, and the stance of the nation. Rigorous testing and training are used to determine where each individual best fits in the nation's hierarchy and ensure they reach their full potential. 
 ## Military

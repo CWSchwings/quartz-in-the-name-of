@@ -1,9 +1,1 @@
-﻿---
-draft: "true"
----
-Type: Wonderous Item
-Holder: Ship Hull
-
-Takes 1 level of Manawrecked condition
-
-Merfolk at the Edwin's shipwreck
+A small stud of [[Thramnium]] will absorb 1 level of the [[Manawrack]] condition instead of allowing the wearer to be affected. 1 standard bar of [[Thramnium]] can be used to create 100 such studs when combined with 1 standard bar of another base metal for the setting via the Fabricate spell. 

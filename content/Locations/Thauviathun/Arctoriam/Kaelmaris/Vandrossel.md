@@ -1,5 +1,4 @@
 ---
 draft: false
 ---
-Primary headquarters of [[Order Of Bone]].  
-City in [[Locations/Kaelmaris]]
+A city in [[Kaelmaris]], Vandrossel is the primary headquarters of the [[Order Of Bone]].

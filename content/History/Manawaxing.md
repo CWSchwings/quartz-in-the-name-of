@@ -7,7 +7,7 @@ A period of time defining a gradual change in the way magic operates in the worl
 
 Prior to this period, magic was extremely difficult and required tremendous resources to accomplish even trivial effects. Years of study and preparation and thousands of platinum of gold would go into a spell to enchant a sword with a sharper edge. Magic was weak, but it was safe. It accomplished what it set out to predictably and formulaically.
 
-By the end of this period, magic had become significantly easier to cast, to the point where anyone could manage to learn it with some effort. Spells could be cast by those who knew how with only a token effort. Magic had become strong, but dangerous. Spellcasters and those around them started to become Manawracked.
+By the end of this period, magic had become significantly easier to cast, to the point where anyone could manage to learn it with some effort. Spells could be cast by those who knew how with only a token effort. Magic had become strong, but dangerous. Spellcasters and those around them started to become [[Manawrack|Manawracked]].
 
 The power structures that had existed prior to this period broke down, as in the middle magic had reached a perfect balance of safety and usability to allow those who embraced it to affect enormous change in the world at their will.
 
