@@ -1,5 +1,7 @@
 ---
 draft: false
+tags:
+  - Completed
 ---
 Completed: True
 Location: Sea (Near New World)

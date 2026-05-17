@@ -1,5 +1,7 @@
 ---
 draft: false
+tags:
+  - Completed
 ---
 Completed: True
 Location: Vaelcor's Reach (Durathia)

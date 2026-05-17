@@ -1,5 +1,7 @@
 ---
 draft: false
+tags:
+  - Completed
 ---
 Completed: True
 Reward: 400 gold pieces
