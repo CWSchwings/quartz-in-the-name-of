@@ -1,15 +1,13 @@
 ---
 draft: false
+tags:
+  - Female
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]], [[Tiefling]] |
+| ----------- | ----------------------- |
+| Nationality |                         |
+| Location    | [[Broken Heart]]        |
 
-Status: Alive
-Location: On the Ship
-Pronouns: She/Her
-Race: Tiefling
 
 From the group of prosecuted tieflings

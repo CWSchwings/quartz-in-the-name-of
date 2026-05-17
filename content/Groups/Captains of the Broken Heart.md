@@ -11,7 +11,7 @@ Current Captains:
 [[Bennett]]
 [[Caspian O’Leary]]
 [[Johanna]]
-[[Pot]]
+[[Push and Pull of the Ocean's Tides]]
 [[Rene]]
 [[Vinnie]]
 

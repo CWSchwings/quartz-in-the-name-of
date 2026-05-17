@@ -1,11 +1,16 @@
 ---
 draft: false
+tags:
+  - Male
+  - Ranger
+  - Chaotic
+  - Goblinoid
+  - Soldier
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]]                |
+| ----------- | ------------------------ |
+| Nationality | [[Kaelmaris\|Kaelmarin]] |
+| Location    | [[Broken Heart]]         |
 
 Passenger on merchant vessel.  
-[[Ranger]] [[Human]] [[Soldier]] [[Chaotic]] [[Good]]

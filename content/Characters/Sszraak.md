@@ -1,10 +1,12 @@
 ---
 draft: false
+tags:
+  - Bard
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Lizardfolk]]   |
+| ----------- | ---------------- |
+| Nationality |                  |
+| Location    | [[Broken Heart]] |
 
-Blind mute lizardfolk bard
+Blind mute

@@ -1,10 +1,13 @@
 ---
 draft: false
+tags:
+  - Female
+  - Herbalist
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]] |
+| ----------- | --------- |
+| Nationality |           |
+| Location    |           |
 
-[[Human]] [[Female]] Herbalist from [[Unknown Dinosaur Island]]
+ from [[Unknown Dinosaur Island]]

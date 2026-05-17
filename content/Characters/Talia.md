@@ -1,12 +1,12 @@
 ---
 draft: false
+tags:
+  - Alive
+  - Female
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]]        |
+| ----------- | ---------------- |
+| Nationality |                  |
+| Location    | [[Thistlebrook]] |
 
-Status: Alive
-Location: Thistlebrook
-Pronouns: She/Her

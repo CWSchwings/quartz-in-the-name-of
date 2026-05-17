@@ -2,10 +2,10 @@
 draft: false
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     |                         |
+| ----------- | ----------------------- |
+| Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Location    |                         |
 
 First Mate of the [[Zns Thalassir]].  
 "The Shark"  

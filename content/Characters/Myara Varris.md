@@ -1,14 +1,13 @@
 ---
 draft: false
+tags:
+  - Male
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     |                               |
+| ----------- | ----------------------------- |
+| Nationality | [[Calvatharn\|Calvatharnian]] |
+| Location    | [[Zhelesyr]]                  |
 
-Status: Alive
-Location: Zhelesyr
-Pronouns: He/Him
 
 The man the blockade was for

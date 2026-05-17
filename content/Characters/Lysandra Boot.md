@@ -1,18 +1,13 @@
 ---
 draft: false
+tags:
+  - Alive
+  - Female
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     |                                |
+| ----------- | ------------------------------ |
+| Nationality |                                |
+| Location    | [[Vallume]], [[Tulip Blossom]] |
 
 Captain of the [[Tulip Blossom]]  
-Vallume
-
-Status: Alive
-Pronouns: She/Her
-
-Captain of the Tulip Blossom
-
-Vallume

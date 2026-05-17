@@ -1,12 +1,12 @@
 ---
 draft:
 tags:
-  - Aasimar
-  - Humanoid/Human
+  - Female
+  - Dead
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]], [[Aasimar]] |
+| ----------- | ---------------------- |
+| Nationality |                        |
+| Location    |                        |
 

@@ -10,6 +10,6 @@ draft: false
 [[Oblex]] first encountered in the [[Vallumos Sewers]]
 
 Current memories:  
-[[Pot]] 4  
+[[Push and Pull of the Ocean's Tides]] 4  
 [[Caspian O’Leary]] 4  
 [[Bennett]] 4
