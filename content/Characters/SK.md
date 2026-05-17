@@ -5,6 +5,7 @@ draft: false
 | Species     |     |
 | ----------- | --- |
 | Nationality |     |
+| Affiliation |     |
 | Location    |     |
 
 [[Oblex]] first encountered in the [[Vallumos Sewers]]

@@ -8,6 +8,7 @@ tags:
 | Species     | [[Human]]                           |
 | ----------- | ----------------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]]         |
+| Affiliation |                                     |
 | Location    | [[Celestial Shield]], [[Myrenthal]] |
 
 One of the captains of the [[Emerald Expansion]].  

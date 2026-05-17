@@ -9,6 +9,7 @@ tags:
 | Species     | [[Avianfolk]]    |
 | ----------- | ---------------- |
 | Nationality |                  |
+| Affiliation |                  |
 | Location    | [[Broken Heart]] |
 
 

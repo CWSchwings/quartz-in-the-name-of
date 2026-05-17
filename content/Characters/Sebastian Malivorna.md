@@ -10,6 +10,7 @@ tags:
 | Species     | [[Elf]]                 |
 | ----------- | ----------------------- |
 | Nationality | [[Durathia\|Durathian]] |
+| Affiliation |                         |
 | Location    | [[Vaelcor's Reach]]     |
 
 Member of the [[Malivorna Family]]

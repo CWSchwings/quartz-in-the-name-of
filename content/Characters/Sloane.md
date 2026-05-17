@@ -5,6 +5,7 @@ draft: false
 | Species     |                         |
 | ----------- | ----------------------- |
 | Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Affiliation |                         |
 | Location    |                         |
 
 First Mate of the [[Zns Thalassir]].  

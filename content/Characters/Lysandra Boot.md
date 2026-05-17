@@ -8,6 +8,7 @@ tags:
 | Species     |                                |
 | ----------- | ------------------------------ |
 | Nationality |                                |
+| Affiliation |                                |
 | Location    | [[Vallume]], [[Tulip Blossom]] |
 
 Captain of the [[Tulip Blossom]]  

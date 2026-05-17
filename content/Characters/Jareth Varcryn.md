@@ -9,6 +9,7 @@ tags:
 | Species     | [[Human]]               |
 | ----------- | ----------------------- |
 | Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Affiliation |                         |
 | Location    | [[Zhelesyr]]            |
 
 

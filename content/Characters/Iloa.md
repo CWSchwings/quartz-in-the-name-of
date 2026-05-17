@@ -8,6 +8,7 @@ tags:
 | Species     |                         |
 | ----------- | ----------------------- |
 | Nationality | [[Durathia\|Durathian]] |
+| Affiliation |                         |
 | Location    | [[Broken Heart]]        |
 
 A girl with magical possession powers.

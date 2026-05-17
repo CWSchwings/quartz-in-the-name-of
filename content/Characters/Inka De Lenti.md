@@ -5,6 +5,7 @@ draft: false
 | Species     | [[Human]]               |
 | ----------- | ----------------------- |
 | Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Affiliation |                         |
 | Location    | [[Mirathis Harbor]]     |
 
 [[Nonbinary]] [[Human]] [[Scribe]]  

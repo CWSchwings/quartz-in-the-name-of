@@ -7,5 +7,6 @@ tags:
 | Species     | [[Tiefling]], [[Human]]     |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Affiliation |                             |
 | Location    | [[Broken Heart]]            |
 

@@ -8,6 +8,7 @@ tags:
 | Species     |                         |
 | ----------- | ----------------------- |
 | Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Affiliation |                         |
 | Location    | [[Zhelesyr]]            |
 
 Profession: Merchant prince

@@ -8,6 +8,7 @@ tags:
 | Species     | [[Tortle]] |
 | ----------- | ---------- |
 | Nationality |            |
+| Affiliation |            |
 | Location    |            |
 
 from [[Unknown Dinosaur Island]]

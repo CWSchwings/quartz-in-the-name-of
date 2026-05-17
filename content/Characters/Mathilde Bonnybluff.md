@@ -8,6 +8,7 @@ tags:
 | Species     | [[Dwarf]]                   |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Affiliation |                             |
 | Location    | [[Arinthal Harbor]]         |
 
 [[Johanna]]'s adoptive Mother  

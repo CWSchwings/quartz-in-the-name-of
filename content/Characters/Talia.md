@@ -8,5 +8,6 @@ tags:
 | Species     | [[Human]]        |
 | ----------- | ---------------- |
 | Nationality |                  |
+| Affiliation |                  |
 | Location    | [[Thistlebrook]] |
 

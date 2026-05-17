@@ -5,6 +5,7 @@ draft: false
 | Species     | [[Halfling]]                |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Affiliation |                             |
 | Location    | [[Arinthal Harbor]]         |
 
 [[Johanna]]'s younger sister.  

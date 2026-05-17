@@ -5,6 +5,7 @@ draft: false
 | Species     | [[Human]]                   |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Affiliation |                             |
 | Location    | [[Arinthal Harbor]]         |
 
 [[Caspian O’Leary]]'s father.  

@@ -7,6 +7,7 @@ tags:
 | Species     |                  |
 | ----------- | ---------------- |
 | Nationality |                  |
+| Affiliation |                  |
 | Location    | [[Thistlebrook]] |
 
 

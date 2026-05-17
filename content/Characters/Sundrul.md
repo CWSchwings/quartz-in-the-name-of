@@ -7,6 +7,7 @@ tags:
 | Species     | [[Orc]]                     |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Affiliation |                             |
 | Location    | [[Arinthal Harbor]]         |
 
  with a love of coin.  

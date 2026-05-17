@@ -8,5 +8,6 @@ tags:
 | Species     | [[Human]], [[Aasimar]] |
 | ----------- | ---------------------- |
 | Nationality |                        |
+| Affiliation |                        |
 | Location    |                        |
 

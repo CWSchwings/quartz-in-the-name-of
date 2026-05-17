@@ -7,6 +7,7 @@ tags:
 | Species     |                               |
 | ----------- | ----------------------------- |
 | Nationality | [[Calvatharn\|Calvatharnian]] |
+| Affiliation |                               |
 | Location    | [[Zhelesyr]]                  |
 
 

@@ -7,6 +7,7 @@ tags:
 | Species     | [[Human]] |
 | ----------- | --------- |
 | Nationality |           |
+| Affiliation |           |
 | Location    |           |
 
 Bandit from [[Calvatharn Dig Site 1187|Unknown Dinosaur Island]]. 

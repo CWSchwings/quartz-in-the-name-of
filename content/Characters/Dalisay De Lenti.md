@@ -9,6 +9,7 @@ tags:
 | Species     | [[Halfling]]            |
 | ----------- | ----------------------- |
 | Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Affiliation |                         |
 | Location    | [[Zhelesyr]]            |
 
 One of [[Bennett]]'s parents.

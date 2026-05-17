@@ -7,6 +7,7 @@ tags:
 | Species     | [[Human]], [[Tiefling]] |
 | ----------- | ----------------------- |
 | Nationality |                         |
+| Affiliation |                         |
 | Location    | [[Broken Heart]]        |
 
 

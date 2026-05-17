@@ -10,6 +10,7 @@ tags:
 | Species     | [[Orc]]                 |
 | ----------- | ----------------------- |
 | Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Affiliation |                         |
 | Location    | [[Arinthal Harbor]]     |
 
 ![[FaustusDeLenti.png]]

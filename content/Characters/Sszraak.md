@@ -7,6 +7,7 @@ tags:
 | Species     | [[Lizardfolk]]   |
 | ----------- | ---------------- |
 | Nationality |                  |
+| Affiliation |                  |
 | Location    | [[Broken Heart]] |
 
 Blind mute

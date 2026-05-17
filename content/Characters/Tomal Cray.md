@@ -8,6 +8,7 @@ tags:
 | Species     | [[Human]]        |
 | ----------- | ---------------- |
 | Nationality |                  |
+| Affiliation |                  |
 | Location    | [[Broken Heart]] |
 
 

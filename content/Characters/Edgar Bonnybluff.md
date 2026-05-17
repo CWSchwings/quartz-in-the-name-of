@@ -8,6 +8,7 @@ tags:
 | Species     | [[Halfling]]                |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Affiliation |                             |
 | Location    | [[Arinthal Harbor]]         |
 
 Older brother of [[Johanna]].  

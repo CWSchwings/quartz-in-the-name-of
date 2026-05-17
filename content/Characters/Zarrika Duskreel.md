@@ -8,6 +8,7 @@ tags:
 | Species     | [[Human]], [[Tiefling]] |
 | ----------- | ----------------------- |
 | Nationality |                         |
+| Affiliation |                         |
 | Location    |                         |
 
 from [[Unknown Dinosaur Island]]

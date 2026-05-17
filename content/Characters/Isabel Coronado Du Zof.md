@@ -5,6 +5,7 @@ draft: false
 | Species     |                             |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Affiliation |                             |
 | Location    |                             |
 
 Captain of the [[Zns Thalassir]]  

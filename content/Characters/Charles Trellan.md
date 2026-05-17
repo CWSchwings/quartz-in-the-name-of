@@ -9,6 +9,7 @@ tags:
 | Species     | [[Human]]              |
 | ----------- | ---------------------- |
 | Nationality | [[Vallume\|Vallumite]] |
+| Affiliation |                        |
 | Location    | [[Vallumos]]           |
 
 [[Vallumos]] Smuggler
