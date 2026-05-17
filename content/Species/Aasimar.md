@@ -1,0 +1,1 @@
+Creatures touched by some sort of magic at birth, Aasimar are at a glance indistinguishable from normal examples of their species, unlike [[Tiefling|Tieflings]]. 
