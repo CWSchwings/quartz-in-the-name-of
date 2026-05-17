@@ -3,4 +3,4 @@ draft: false
 aliases:
   - Zhelesyri
 ---
-Monarchy under the [[Thalorian Dynasty]]
+Monarchy in [[Arctoriam]] under the [[Thalorian Dynasty]]
