@@ -1,10 +1,13 @@
 ---
 draft: false
+tags:
+  - Female
+  - Alive
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]], [[Tiefling]] |
+| ----------- | ----------------------- |
+| Nationality |                         |
+| Location    |                         |
 
-[[Female]] [[Tiefling]] Thug from [[Unknown Dinosaur Island]]
+Thug from [[Unknown Dinosaur Island]]

@@ -1,10 +1,12 @@
 ---
 draft: false
+tags:
+  - Male
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Grung]] |
+| ----------- | --------- |
+| Nationality |           |
+| Location    |           |
 
-[[Male]] [[Grung]] Warrior from [[Unknown Dinosaur Island]]
+Warrior from [[Unknown Dinosaur Island]]

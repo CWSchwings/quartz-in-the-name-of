@@ -1,13 +1,14 @@
 ---
 draft: false
+tags:
+  - Alive
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     |                  |
+| ----------- | ---------------- |
+| Nationality |                  |
+| Location    | [[Thistlebrook]] |
 
-Status: Alive
-Location: Thistlebrook
+
 
 Current elected leader of the port town of Thistlebrook

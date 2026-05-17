@@ -1,10 +1,13 @@
 ---
 draft: false
+tags:
+  - Male
+  - Pirate
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]], [[Tiefling]] |
+| ----------- | ----------------------- |
+| Nationality |                         |
+| Location    |                         |
 
-[[Tiefling]] [[Male]] Pirate from [[Unknown Dinosaur Island]]
+from [[Unknown Dinosaur Island]]
