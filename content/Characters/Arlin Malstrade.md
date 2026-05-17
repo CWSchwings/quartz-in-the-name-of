@@ -4,9 +4,9 @@ tags:
   - Alive
   - Male
 ---
-| Species     | [[Human]]                   |
-| ----------- | --------------------------- |
-| Nationality | [[Tir Zafiri\|Tir Zafirin]] |
-| Location    | [[Fogwatch Hollow]]         |
+| Species     | [[Human]]                                                                                          |
+| ----------- | -------------------------------------------------------------------------------------------------- |
+| Nationality | [[Tir Zafiri\|Tir Zafirin]]                                                                        |
+| Affiliation | Former member of the [[Order Of Bone]], Governor of [[Fogwatch Hollow]], Citizen of [[Tir Zafiri]] |
+| Location    | [[Fogwatch Hollow]]                                                                                |
 
-Former member of the [[Order of Bone]]

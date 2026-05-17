@@ -8,9 +8,10 @@ tags:
   - Pirate
 ---
 
-| Species     | [[Bullywug]] |
-| ----------- | ------------ |
-| Nationality |              |
-| Location    |              |
+| Species     | [[Bullywug]]                                                                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Nationality |                                                                                                                           |
+| Affiliation | Captain of the [[Broken Heart]], Member of the [[Captains of the Broken Heart]], Part of the [[Crew of the Broken Heart]] |
+| Location    |                                                                                                                           |
 
 Mute

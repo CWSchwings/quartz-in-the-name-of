@@ -6,10 +6,11 @@ aliases:
   - Caspian
 ---
 
-| Species     | [[Human]]                   |
-| ----------- | --------------------------- |
-| Nationality | [[Tir Zafiri\|Tir Zafirin]] |
-| Location    | [[Broken Heart]]            |
+| Species     | [[Human]]                                                                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Nationality | [[Tir Zafiri\|Tir Zafirin]]                                                                                                           |
+| Affiliation | One of the captains of the [[Broken Heart]], Member of the [[Captains of the Broken Heart]], Part of the [[Crew of the Broken Heart]] |
+| Location    | [[Broken Heart]]                                                                                                                      |
 
 navy sailor pugilist rigging runner.  
 22 years old  

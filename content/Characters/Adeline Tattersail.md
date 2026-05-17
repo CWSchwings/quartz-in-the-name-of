@@ -5,9 +5,10 @@ tags:
   - Alive
 ---
 
-| Species     | [[Human]]                   |
-| ----------- | --------------------------- |
-| Nationality | [[Tir Zafiri\|Tir Zafirin]] |
-| Location    | Unknown                     |
+| Species     | [[Human]]                                                                        |
+| ----------- | -------------------------------------------------------------------------------- |
+| Nationality | [[Tir Zafiri\|Tir Zafirin]]                                                      |
+| Affiliation | Captain of the [[Moonlit Grave]], Working relationship with the [[Tidebreakers]] |
+| Location    | [[Moonlit Grave]]                                                                |
 
 Captain of the [[Moonlit Grave]]

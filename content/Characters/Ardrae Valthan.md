@@ -3,9 +3,9 @@ draft: false
 tags:
   - Female
 ---
-Queen of [[Vallume]]
 
 | Species     | [[Human]]              |
 | ----------- | ---------------------- |
 | Nationality | [[Vallume\|Vallumite]] |
+| Affiliation | Queen of [[Vallume]]   |
 | Location    | [[Vallumos]]           |

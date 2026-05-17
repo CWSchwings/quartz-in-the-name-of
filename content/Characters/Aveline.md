@@ -4,9 +4,10 @@ tags:
   - Alive
   - Pirate
 ---
-| Species     | [[Human]]            |
-| ----------- | -------------------- |
-| Nationality | Unknown              |
-| Location    | [[Blacktide Refuge]] |
+| Species     | [[Human]]                       |
+| ----------- | ------------------------------- |
+| Nationality | Unknown                         |
+| Affiliation | Captain of [[Blacktide Refuge]] |
+| Location    | [[Blacktide Refuge]]            |
 
 Captain of [[Blacktide Refuge]]

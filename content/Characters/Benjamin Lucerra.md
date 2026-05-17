@@ -5,9 +5,10 @@ tags:
   - Alive
 ---
 
-| Species     | [[Human]]              |
-| ----------- | ---------------------- |
-| Nationality | [[Vallume\|Vallumite]] |
-| Location    | [[Vallumos]]           |
+| Species     | [[Human]]               |
+| ----------- | ----------------------- |
+| Nationality | [[Vallume\|Vallumite]]  |
+| Affiliation | Prisoner of [[Vallume]] |
+| Location    | [[Vallumos]]            |
 
 Horse Thief
