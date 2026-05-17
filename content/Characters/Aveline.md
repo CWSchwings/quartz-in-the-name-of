@@ -3,6 +3,9 @@ draft: false
 tags:
   - Alive
   - Pirate
-  - Zylandrom/Blacktide_Refuge
 ---
+| Species     | [[Human]]            |
+| ----------- | -------------------- |
+| Nationality | Unknown              |
+| Location    | [[Blacktide Refuge]] |
 Captain of [[Blacktide Refuge]]

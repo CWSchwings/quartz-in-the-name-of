@@ -1,6 +1,12 @@
 ---
 draft: false
 tags:
-  - Arctoriam/Vallume/Vallumos
+  - Male
+  - Alive
 ---
+
+| Species     | [[Human]]              |
+| ----------- | ---------------------- |
+| Nationality | [[Vallume\|Vallumite]] |
+| Location    | [[Vallumos]]           |
 Horse Thief

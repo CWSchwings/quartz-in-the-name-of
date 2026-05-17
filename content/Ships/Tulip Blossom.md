@@ -1,5 +1,7 @@
 ---
 draft: false
+tags:
+  - Ship
 ---
 Location: With the party
 

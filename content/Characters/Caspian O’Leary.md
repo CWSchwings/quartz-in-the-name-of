@@ -1,12 +1,17 @@
 ---
 draft: false
 tags:
-  - Humanoid/Human
   - Male
 aliases:
   - Caspian
 ---
-[[Human]] navy sailor pugilist rigging runner.  
+
+| Species     | [[Human]]                   |
+| ----------- | --------------------------- |
+| Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Location    |                             |
+
+navy sailor pugilist rigging runner.  
 22 years old  
 Tanned skin, green tint  
 Pointed ears, beaten and cauliflowered  

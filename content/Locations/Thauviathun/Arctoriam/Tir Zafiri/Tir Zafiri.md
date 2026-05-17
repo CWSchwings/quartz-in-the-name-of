@@ -1,5 +1,7 @@
 ---
 draft: false
+aliases:
+  - Tir Zafirin
 ---
 Small nation between [[Vallume]] and [[Zhelesyr]].  
 Monarchy with advisory council.  

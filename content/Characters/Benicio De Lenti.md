@@ -3,6 +3,9 @@ draft: false
 tags:
   - Dead
   - Male
-  - Humanoid/Human
 ---
+| Species     | [[Human]]               |
+| ----------- | ----------------------- |
+| Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Location    | [[Zhelesyr]]            |
 One of [[Bennett]]'s parents.

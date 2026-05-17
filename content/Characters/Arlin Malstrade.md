@@ -3,7 +3,9 @@ draft: false
 tags:
   - Alive
   - Male
-  - Zylandrom/Fogwatch_Hollow
-  - Arctoriam/Vallume
 ---
+| Species     | [[Human]]              |
+| ----------- | ---------------------- |
+| Nationality | [[Vallume\|Vallumite]] |
+| Location    | [[Fogwatch Hollow]]    |
 Former member of the [[Order of Bone]]

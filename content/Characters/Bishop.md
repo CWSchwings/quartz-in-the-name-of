@@ -1,11 +1,15 @@
 ---
 draft: false
 tags:
-  - Amphibianfolk/Bullywug
   - Male
   - Cisgender
   - Heterosexual
   - Artificer
   - Pirate
 ---
+
+| Species     | [[Bullywug]] |
+| ----------- | ------------ |
+| Nationality |              |
+| Location    |              |
 Mute

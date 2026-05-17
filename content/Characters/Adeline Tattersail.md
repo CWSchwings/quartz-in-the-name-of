@@ -1,9 +1,12 @@
 ---
 draft: false
 tags:
-  - Humanoid/Human
   - Female
-  - Arctorian/Tir_Zafiran
   - Alive
 ---
+
+| Species     | [[Human]]                   |
+| ----------- | --------------------------- |
+| Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Location    | Unknown                     |
 Captain of the [[Moonlit Grave]]
