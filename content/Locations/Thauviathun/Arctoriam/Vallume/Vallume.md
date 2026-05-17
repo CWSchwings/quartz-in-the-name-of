@@ -12,7 +12,9 @@ The majority of Vallume strives toward valor as their guiding ideal. Most of the
 ## People
 The average Vallumite is very straightforward, doesn't beat around the bush, and makes their intentions known and their actions direct. 
 
-Every Vallumite of age is prepared for combat at any given moment. After their mandatory miliraty service, it is expected that everyone remain ready to be called back into service, and indeed it is an honor to do so. It is vanishingly rare to meet a Vallumite not wearing heavy armor and carrying a weapon. 
+Every Vallumite of age is prepared for combat at any given moment. After their mandatory miliraty service, it is expected that everyone remain ready to be called back into service, and indeed it is an honor to do so. It is vanishingly rare to meet a Vallumite not wearing heavy armor and carrying a weapon, and all will wear a family crest in some way.
+
+After their military service, most Vallumites go into their family business, or an apprenticeship with another close family. 
 # Diplomacy
 Vallume takes a supremacist, paternalist stance to diplomacy. They keeping the world's peace as their responsibility, and use their vast and well-trained military to accomplish that. Vallume is of the opionion that the world would be a better place if everyone just followed their lead, as the epitome of that which is good. 
 
