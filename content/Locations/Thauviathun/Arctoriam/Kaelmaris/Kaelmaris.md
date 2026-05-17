@@ -2,6 +2,7 @@
 aliases:
   - Kaelmarin
 ---
+Nation in the Northern main continent of [[Arctoriam]]
 # Culture
 ## Ideal
 Competence is the ideal that each Kaelmarin strives for. Each individual is expected to excel in their own field, and failure in that field is considered unacceptable. An individual that fails will often undertake an impossible task of some sort to attempt to prove their capability. If they succeed, their failure will be forgiven, and if they fail, they are often considered lost to Kaelmaris. 

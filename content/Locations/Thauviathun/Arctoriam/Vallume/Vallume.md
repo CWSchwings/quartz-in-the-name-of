@@ -3,6 +3,7 @@ draft: false
 aliases:
   - Vallumite
 ---
+Nation in centrally location in the main continent of [[Arctoriam]]
 # Culture
 Image is very important to a Vallumite, as is being seen to be virtuous.
 ## Etiquette
