@@ -1,5 +1,8 @@
 ---
-draft: false
+aliases:
+  - Johanna
+  - Jo
+  - Johanna Bonnybluff
 ---
 
 | Species     | [[Halfling]]                                                                                                                          |

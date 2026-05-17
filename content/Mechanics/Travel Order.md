@@ -2,7 +2,7 @@
 draft: false
 ---
 
-| [[Caspian O’Leary]] | [[Push and Pull of the Ocean's Tides]] |
+| [[Caspian]] | [[Pot]] |
 | ----------- | ------- |
 | [[Vinnie]]  |         |
 | [[Johanna]] |         |

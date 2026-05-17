@@ -6,6 +6,7 @@ tags:
   - Monk
 aliases:
   - Pot
+  - Push and Pull of the Ocean's Tides
 ---
 
 | Species     | [[Tabaxi]]                                                                                                                            |

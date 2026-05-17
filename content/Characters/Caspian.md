@@ -4,6 +4,7 @@ tags:
   - Male
 aliases:
   - Caspian
+  - Caspian O'Leary
 ---
 
 | Species     | [[Human]]                                                                                                                             |

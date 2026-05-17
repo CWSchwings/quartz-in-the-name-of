@@ -9,9 +9,9 @@ aliases:
 ---
 Current Captains:
 [[Bennett]]
-[[Caspian O’Leary]]
+[[Caspian]]
 [[Johanna]]
-[[Push and Pull of the Ocean's Tides]]
+[[Pot]]
 [[Rene]]
 [[Vinnie]]
 
