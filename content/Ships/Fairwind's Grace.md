@@ -1,4 +1,12 @@
 ---
 draft: false
 ---
-Captain: Doren
+
+| Captian     | [[Doran Corvath]] |
+| ----------- | ----------------- |
+| Affiliation |                   |
+| Location    | [[Myrenthal]]     |
+| Crew        |                   |
+| Flag        |                   |
+| Class       | Sloop             |
+

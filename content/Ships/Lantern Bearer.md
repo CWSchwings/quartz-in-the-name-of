@@ -1,4 +1,12 @@
 ---
 draft: false
 ---
-Captain: Gabriels and Molnar
+
+| Captian     | [[Gabriels]], [[Molnar]] |
+| ----------- | ------------------------ |
+| Affiliation |                          |
+| Location    |                          |
+| Crew        |                          |
+| Flag        |                          |
+| Class       |                          |
+

@@ -1,8 +1,15 @@
 ---
 draft: false
 ---
-Location: Headed to the New World
-Captain: Lisa
+
+| Captian     | [[Lisa]]      |
+| ----------- | ------------- |
+| Affiliation |               |
+| Location    | [[Zylandrom]] |
+| Crew        |               |
+| Flag        |               |
+| Class       |               |
+
 
 Manned by a mercenary crew and merchants hired by Tamal.
 

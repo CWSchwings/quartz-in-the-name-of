@@ -1,4 +1,12 @@
 ---
 draft: false
 ---
-Captained by [[Naela Corvessa]]
+
+| Captian     | [[Naela Corvessa]] |
+| ----------- | ------------------ |
+| Affiliation |                    |
+| Location    |                    |
+| Crew        |                    |
+| Flag        |                    |
+| Class       |                    |
+

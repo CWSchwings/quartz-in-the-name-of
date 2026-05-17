@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
-Flag: Yellow palm tree on a green field  
-Nationality: [[Tir Zafiri]]  
-Affiliation: [[Devrin Traders]]
+
+| Captian     |                                    |
+| ----------- | ---------------------------------- |
+| Affiliation | [[Devrin Traders]], [[Tir Zafiri]] |
+| Location    |                                    |
+| Crew        |                                    |
+| Flag        | Yellow palm tree on a green field  |
+| Class       |                                    |
+

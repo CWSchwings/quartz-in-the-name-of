@@ -1,4 +1,12 @@
 ---
 draft: false
 ---
-Captain: Vayne
+
+| Captian     | [[Vayne]]    |
+| ----------- | ------------ |
+| Affiliation | [[Durathia]] |
+| Location    |              |
+| Crew        |              |
+| Flag        |              |
+| Class       |              |
+

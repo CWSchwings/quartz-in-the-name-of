@@ -1,5 +1,12 @@
 ---
 draft: false
 ---
-Flag: black squid with a single white eye on a blue background  
-Affiliation: Pirate
+
+| Captian     |                                                          |
+| ----------- | -------------------------------------------------------- |
+| Affiliation | Pirate                                                   |
+| Location    |                                                          |
+| Crew        |                                                          |
+| Flag        | black squid with a single white eye on a blue background |
+| Class       |                                                          |
+

@@ -1,8 +1,12 @@
 ---
 draft: false
 ---
-Location: With the party
 
-One of the ships in the Emerald Expansion
+| Captian     | [[Dorian Whiteshade]] |
+| ----------- | --------------------- |
+| Affiliation | [[Emerald Expansion]] |
+| Location    | [[Myrenthal]]         |
+| Crew        |                       |
+| Flag        |                       |
+| Class       |                       |
 
-Dorian is a crew member of this ship.

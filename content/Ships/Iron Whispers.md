@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
-Captain: Acheem Daniels
 
-Military ship for Myrenthal
+| Captian     | [[Acheem Daniels]] |
+| ----------- | ------------------ |
+| Affiliation | [[Myrenthal]]      |
+| Location    |                    |
+| Crew        |                    |
+| Flag        |                    |
+| Class       | Warship            |
+

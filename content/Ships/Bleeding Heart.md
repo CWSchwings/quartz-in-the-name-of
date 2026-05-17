@@ -5,5 +5,12 @@ aliases:
 tags:
   - Ship
 ---
-Location Unknown
-Captain: [[Dorian Whiteshade]]
+
+| Captian     | [[Dorian Whiteshade]] |
+| ----------- | --------------------- |
+| Affiliation |                       |
+| Location    | [[Myrenthal]]         |
+| Crew        |                       |
+| Flag        |                       |
+| Class       |                       |
+

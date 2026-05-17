@@ -1,5 +1,16 @@
 ---
 draft: false
+tags:
+  - Dead
 ---
 
-It was on an exploratory mission of Baragan Thaylor. Ship went down.
+| Captian     |                    |
+| ----------- | ------------------ |
+| Affiliation |                    |
+| Location    | [[Baragon Thalor]] |
+| Crew        |                    |
+| Flag        |                    |
+| Class       |                    |
+
+
+It was on an exploratory mission

@@ -2,6 +2,11 @@
 draft: false
 ---
 
-A small ship (smaller than the Bleeding Heart)
+| Captian     |                                     |
+| ----------- | ----------------------------------- |
+| Affiliation |                                     |
+| Location    |                                     |
+| Crew        |                                     |
+| Flag        | blue shut eye on a black background |
+| Class       | Sloop                               |
 
-The flag is a blue shut eye on a black background
