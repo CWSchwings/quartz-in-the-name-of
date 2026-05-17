@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
 Status: Deceased
 Location: On the ship
 Pronouns: She/Her

@@ -10,6 +10,7 @@ tags:
 | ----------- | ------------- |
 | Nationality |               |
 | Location    | [[Myrenthal]] |
+
 Location: On the way to Myrrenthal
 
 Richly dressed and immaculately groomed

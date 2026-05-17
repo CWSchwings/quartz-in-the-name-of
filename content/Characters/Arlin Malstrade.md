@@ -8,4 +8,5 @@ tags:
 | ----------- | ---------------------- |
 | Nationality | [[Vallume\|Vallumite]] |
 | Location    | [[Fogwatch Hollow]]    |
+
 Former member of the [[Order of Bone]]

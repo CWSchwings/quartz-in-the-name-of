@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
 [[Halfling]] navy sailor [[Rogue]]
 
 Adoptive Mother: [[Mathilde Bonnybluff]]  

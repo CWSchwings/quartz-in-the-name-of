@@ -9,4 +9,5 @@ tags:
 | ----------- | ---------------------- |
 | Nationality | [[Vallume\|Vallumite]] |
 | Location    | [[Vallumos]]           |
+
 Horse Thief

@@ -9,4 +9,5 @@ tags:
 | ----------- | ---------------- |
 | Nationality |                  |
 | Location    | [[Thistlebrook]] |
+
 A local citizen of [[Thistlebrook]] [[Rene]] got attached to.

@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
 [[Oblex]] first encountered in the [[Vallumos Sewers]]
 
 Current memories:  

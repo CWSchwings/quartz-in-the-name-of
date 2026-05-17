@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
 Status: Alive
 Location: On the ship
 Pronouns: He/Him

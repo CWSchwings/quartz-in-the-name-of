@@ -2,6 +2,12 @@
 draft: false
 ---
 
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
+
 [[Elf]]
 Status: Alive
 Location: On the ship

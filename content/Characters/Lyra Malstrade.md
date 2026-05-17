@@ -4,3 +4,9 @@ tags:
   - Humanoid/Human
   - Aasimar
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+

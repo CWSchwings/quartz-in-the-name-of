@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
 Captain of the [[Tulip Blossom]]  
 Vallume
 

@@ -10,4 +10,5 @@ tags:
 | ----------- | ---------------------- |
 | Nationality | [[Vallume\|Vallumite]] |
 | Location    | [[Vallumos]]           |
+
 [[Vallumos]] Smuggler

@@ -10,4 +10,5 @@ tags:
 | ----------- | ----------------------- |
 | Nationality | [[Zhelesyr\|Zhelesyri]] |
 | Location    | [[Zhelesyr]]            |
+
 One of [[Bennett]]'s parents.

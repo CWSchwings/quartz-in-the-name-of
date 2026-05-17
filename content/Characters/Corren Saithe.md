@@ -9,6 +9,7 @@ tags:
 | ----------- | ---------------- |
 | Nationality |                  |
 | Location    | [[Broken Heart]] |
+
 Profession: Mage
 Mostly skilled with Abjuration magic.  
 Avoids using magic around others when possible.

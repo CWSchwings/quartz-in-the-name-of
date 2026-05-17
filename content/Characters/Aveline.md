@@ -8,4 +8,5 @@ tags:
 | ----------- | -------------------- |
 | Nationality | Unknown              |
 | Location    | [[Blacktide Refuge]] |
+
 Captain of [[Blacktide Refuge]]

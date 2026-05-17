@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
 [[Orc]] man with a love of coin.  
 Wary of the [[Tir Zafiri Navy]]'s growing influence.  
 Has a soft spot for [[Johanna]]  

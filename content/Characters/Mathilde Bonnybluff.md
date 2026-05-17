@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
 [[Johanna]]'s adoptive Mother  
 [[Female]] [[Dwarf]]  
 Nice, but not kind.  

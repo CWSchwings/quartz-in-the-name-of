@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
 [[Nonbinary]] [[Human]] [[Scribe]]  
 Friendly to [[Bennett]]  
 Alive, but doing poorly due to injury.  

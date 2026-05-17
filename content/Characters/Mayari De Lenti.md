@@ -1,6 +1,12 @@
 ---
 draft: false
 ---
+
+| Species     |     |
+| ----------- | --- |
+| Nationality |     |
+| Location    |     |
+
 [[Female]] [[Elf]] [[Fighter]] [[Battlemaster]]  
 Friendly with [[Bennett]]  
 Alive and well  

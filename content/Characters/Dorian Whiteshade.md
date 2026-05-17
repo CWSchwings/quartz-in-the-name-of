@@ -9,4 +9,5 @@ tags:
 | ----------- | ------------------------------ |
 | Nationality |                                |
 | Location    | [[Myrenthal]][[Silvered Edge]] |
+
 Captain of the [[Silvered Edge]]  
