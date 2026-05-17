@@ -3,7 +3,10 @@ draft: false
 tags:
   - Incomplete
 ---
-Completed: False
-Location: Between Myrrenthal and Durathia
+
+| Location   | Between [[Myrenthal]] and [[Durathia]] |
+| ---------- | -------------------------------------- |
+| Questgiver |                                        |
+| Reward     |                                        |
 
 Investigate the isle

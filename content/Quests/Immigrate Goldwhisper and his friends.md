@@ -3,11 +3,12 @@ draft: false
 tags:
   - Completed
 ---
-Completed: True
-Location: Tir Zafiri
-Given By: Goldwhisper
-Reward: 60 gold pieces
 
-8 people are looking for transport for Myrenthal as soon as possible
+| Location   | [[Tir Zafiri]]         |
+| ---------- | ---------------------- |
+| Questgiver | [[Eliath Goldwhisper]] |
+| Reward     | 60 GP                  |
 
-Goldwhisper is leaving because of something with the navy
+8 people are looking for transport for [[Myrenthal]] as soon as possible
+
+[[Eliath Goldwhisper]] is leaving because of something with the navy

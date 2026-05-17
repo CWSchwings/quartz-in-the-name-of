@@ -1,5 +1,7 @@
 ---
 draft: false
+aliases:
+  - Manawracked
 ---
 Prominent features: glowing purple marks on the bodies of the infected  
 Duration: 1 day to 3 months, depending on the power of the magical cause. Multiple cases extend the duration.  

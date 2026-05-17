@@ -3,11 +3,12 @@ draft: false
 tags:
   - Completed
 ---
-Completed: True
-Location: New World
-Given By: Shipping Guild (Myrenthal)
-Reward: 200 gold pieces
 
-Deliver supplies to a port in the New World.
+| Location   | [[Zylandrom]]                |
+| ---------- | ---------------------------- |
+| Questgiver | [[Myrenthal Shipping Guild]] |
+| Reward     | 200 GP                       |
 
-It is close to where the Emerald Expansion
+Deliver supplies to a port in [[Zylandrom]].
+
+It is close to where the [[Emerald Expansion]]

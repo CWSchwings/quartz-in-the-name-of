@@ -3,7 +3,10 @@ draft: false
 tags:
   - Completed
 ---
-Completed: True
-Reward: 400 gold pieces
 
-Needs to arrive in Myrrenthal in 3 months
+| Location   |        |
+| ---------- | ------ |
+| Questgiver |        |
+| Reward     | 400 GP |
+
+Needs to arrive in [[Myrenthal]] in 3 months

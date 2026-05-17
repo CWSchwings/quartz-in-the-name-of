@@ -3,7 +3,10 @@ draft: false
 tags:
   - Completed
 ---
-Completed: True
-Location: Tir Zafiri
 
-Transport a group of diplomats to Myrrenthal
+| Location   | [[Tir Zafiri]] |
+| ---------- | -------------- |
+| Questgiver |                |
+| Reward     |                |
+
+Transport a group of diplomats to [[Myrenthal]]

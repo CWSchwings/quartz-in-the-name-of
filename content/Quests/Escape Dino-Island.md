@@ -3,9 +3,10 @@ draft: false
 tags:
   - Completed
 ---
-Completed: True
-Location: Unknown island amidst the New World sea
-Given By: The Party
-Reward: We get off the island
+
+| Location   | [[Calvatharn Dig Site 1187\|Unknown Dinosaur Island]]                 |
+| ---------- | --------------------------------------------------------------------- |
+| Questgiver | [[Captains of the Broken Heart\|Captains of the Khalvyn's Sacrifice]] |
+| Reward     | Escape the Island                                                     |
 
 The party is shipwrecked following attack by a giant sea monster and needs to find a way off the island
