@@ -1,12 +1,15 @@
 ---
 draft: false
+tags:
+  - Male
+  - Fighter
+  - Dead
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]]               |
+| ----------- | ----------------------- |
+| Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Location    | [[Zhelesyr]]            |
 
-[[Male]] [[Human]] [[Fighter]]  
+
 No relationship with [[Bennett]]  
-Deceased

@@ -1,10 +1,12 @@
 ---
 draft: false
+tags:
+  - Male
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]]    |
+| ----------- | ------------ |
+| Nationality |              |
+| Location    | [[Vallumos]] |
 
 Dockmaster of [[Vallumos]]

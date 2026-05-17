@@ -5,9 +5,9 @@ tags:
   - Male
 ---
 
-| Species     | [[Human]]                      |
-| ----------- | ------------------------------ |
-| Nationality |                                |
-| Location    | [[Myrenthal]][[Silvered Edge]] |
+| Species     | [[Human]]                        |
+| ----------- | -------------------------------- |
+| Nationality |                                  |
+| Location    | [[Myrenthal]], [[Silvered Edge]] |
 
 Captain of the [[Silvered Edge]]  

@@ -10,7 +10,7 @@ tags:
 | Species     | [[Orc]]                 |
 | ----------- | ----------------------- |
 | Nationality | [[Zhelesyr\|Zhelesyri]] |
-| Location    | [[Zhelesyr]]            |
+| Location    | [[Arinthal Harbor]]     |
 
 ![[FaustusDeLenti.png]]
 One of [[Bennett]]'s parents.

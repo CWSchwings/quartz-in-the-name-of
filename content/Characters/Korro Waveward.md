@@ -1,10 +1,13 @@
 ---
 draft: false
+tags:
+  - Male
+  - Monk
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Tortle]] |
+| ----------- | ---------- |
+| Nationality |            |
+| Location    |            |
 
-[[Male]] [[Tortle]] Monk from [[Unknown Dinosaur Island]]
+from [[Unknown Dinosaur Island]]

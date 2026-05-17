@@ -1,14 +1,15 @@
 ---
 draft: false
+tags:
+  - Alive
+  - Male
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     |                         |
+| ----------- | ----------------------- |
+| Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Location    | [[Zhelesyr]]            |
 
-Status: Alive
-Location: Zhelesyr
 Profession: Merchant prince
 
 Captain who survived air hands combat

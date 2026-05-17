@@ -2,10 +2,10 @@
 draft: false
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]]               |
+| ----------- | ----------------------- |
+| Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Location    | [[Mirathis Harbor]]     |
 
 [[Nonbinary]] [[Human]] [[Scribe]]  
 Friendly to [[Bennett]]  

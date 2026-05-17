@@ -5,7 +5,7 @@ draft: false
 | Species     | [[Human]]                   |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
-| Location    | [[Tir Zafiri]]              |
+| Location    | [[Arinthal Harbor]]         |
 
 [[Caspian O’Leary]]'s father.  
 Part of a merchant sailing vessel that was lost at sea.  

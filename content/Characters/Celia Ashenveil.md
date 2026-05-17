@@ -4,8 +4,8 @@ tags:
   - Female
 ---
 
-| Species     | [[Tiefling]][[Human]] |
-| ----------- | --------------------- |
-| Nationality |                       |
-| Location    | [[Broken Heart]]      |
+| Species     | [[Tiefling]], [[Human]]     |
+| ----------- | --------------------------- |
+| Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Location    | [[Broken Heart]]            |
 

@@ -5,10 +5,10 @@ tags:
   - Female
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     |                         |
+| ----------- | ----------------------- |
+| Nationality | [[Durathia\|Durathian]] |
+| Location    | [[Broken Heart]]        |
 
 A girl with magical possession powers.
 Recruited from [[Vaelcor's Reach]] and recommended by [[Sebastian Malivorna|Bastian Malivorna]]

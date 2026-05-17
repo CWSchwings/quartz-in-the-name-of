@@ -9,7 +9,7 @@ aliases:
 | Species     | [[Human]]                   |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
-| Location    |                             |
+| Location    | [[Broken Heart]]            |
 
 navy sailor pugilist rigging runner.  
 22 years old  

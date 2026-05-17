@@ -3,7 +3,7 @@ draft: false
 tags:
 ---
 
-| Species     | [[Human]] [[Aasimar]]   |
+| Species     | [[Human]], [[Aasimar]]  |
 | ----------- | ----------------------- |
 | Nationality | [[Zhelesyr\|Zhelesyri]] |
 | Location    | [[Broken Heart]]        |

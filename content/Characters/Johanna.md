@@ -2,10 +2,10 @@
 draft: false
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Halfling]]                |
+| ----------- | --------------------------- |
+| Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Location    | [[Broken Heart]]            |
 
 [[Halfling]] navy sailor [[Rogue]]
 

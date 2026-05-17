@@ -2,10 +2,10 @@
 draft: false
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     |                             |
+| ----------- | --------------------------- |
+| Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Location    |                             |
 
 Captain of the [[Zns Thalassir]]  
 Fifth child of the [[Coronado Family]] with no innate talents or hope of becoming the family head.  

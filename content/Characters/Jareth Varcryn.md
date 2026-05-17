@@ -1,19 +1,15 @@
 ---
 draft: false
+tags:
+  - Alive
+  - Male
+  - Elderly
 ---
 
-| Species     |     |
-| ----------- | --- |
-| Nationality |     |
-| Location    |     |
+| Species     | [[Human]]               |
+| ----------- | ----------------------- |
+| Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Location    | [[Zhelesyr]]            |
 
 
 Head of the [[Order Of Bone]] in [[Zhelesyr]]
-Status: Alive
-Location: Zhelesyr
-Pronouns: He/Him
-Race: Human
-
-Head of the Order of Bone in Zhelesyr.
-
-An older man

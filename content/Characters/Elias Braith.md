@@ -7,7 +7,7 @@ tags:
 | Species     | [[Human]]                   |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
-| Location    | [[Tir Zafiri]]              |
+| Location    | [[Arinthal Harbor]]         |
 
 Told [[Caspian O’Leary]] stories about ocean adventures.  
 Previously [[Tir Zafiri Navy]].  

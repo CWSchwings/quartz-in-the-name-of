@@ -7,7 +7,7 @@ tags:
 | Species     |                             |
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
-| Location    |                             |
+| Location    | [[Arinthal Harbor]]         |
 
 Bartender of the [[Salty Gull]] and one time paramour of [[Johanna]]  
 They have an ear to the ground on the undercurrent of the political machine.  

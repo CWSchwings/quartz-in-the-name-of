@@ -3,10 +3,9 @@ draft: false
 tags:
   - Alive
   - Male
-  - Humanoid/Halfling
 ---
 
-| Species     |               |
+| Species     | [[Human]]     |
 | ----------- | ------------- |
 | Nationality |               |
 | Location    | [[Myrenthal]] |
