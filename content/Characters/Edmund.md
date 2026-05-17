@@ -2,7 +2,11 @@
 draft: false
 tags:
   - Alive
-  - Zylandrom/Thistlebrook
   - Male
 ---
+
+| Species     | [[Human]]        |
+| ----------- | ---------------- |
+| Nationality |                  |
+| Location    | [[Thistlebrook]] |
 A local citizen of [[Thistlebrook]] [[Rene]] got attached to.

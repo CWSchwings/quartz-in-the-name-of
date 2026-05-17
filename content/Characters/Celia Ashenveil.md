@@ -2,6 +2,9 @@
 draft: false
 tags:
   - Female
-  - Tiefling
-  - Humanoid/Human
 ---
+
+| Species     | [[Tiefling]][[Human]] |
+| ----------- | --------------------- |
+| Nationality |                       |
+| Location    | [[Broken Heart]]      |

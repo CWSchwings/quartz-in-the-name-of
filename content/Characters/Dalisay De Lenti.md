@@ -2,8 +2,12 @@
 draft: false
 tags:
   - Female
-  - Humanoid/Halfling
   - Dead
+  - Sailor
 ---
-Sailor
+
+| Species     | [[Halfling]]            |
+| ----------- | ----------------------- |
+| Nationality | [[Zhelesyr\|Zhelesyri]] |
+| Location    | [[Zhelesyr]]            |
 One of [[Bennett]]'s parents.

@@ -2,9 +2,14 @@
 draft: false
 tags:
   - Male
-  - Humanoid/Halfling
   - Alive
 ---
+
+| Species     | [[Halfling]]                |
+| ----------- | --------------------------- |
+| Nationality | [[Tir Zafiri\|Tir Zafirin]] |
+| Location    | [[Tir Zafiri]]              |
+
 Older brother of [[Johanna]].  
 Captain in the [[Tir Zafiri Navy]].  
 Arranged for [[Johanna]] to be put to work for the [[Tir Zafiri Navy]] instead of rotting in a cell.  

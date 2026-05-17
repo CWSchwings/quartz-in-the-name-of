@@ -2,6 +2,12 @@
 draft: false
 aliases:
 tags:
-  - Arctoriam/Vallume/Vallumos
+  - Male
+  - Alive
 ---
+
+| Species     | [[Human]]              |
+| ----------- | ---------------------- |
+| Nationality | [[Vallume\|Vallumite]] |
+| Location    | [[Vallumos]]           |
 [[Vallumos]] Smuggler

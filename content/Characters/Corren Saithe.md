@@ -2,10 +2,13 @@
 draft: false
 tags:
   - Alive
-  - Humanoid/Human
   - Male
 ---
-Location: [[Broken Heart]]
+
+| Species     | [[Human]]        |
+| ----------- | ---------------- |
+| Nationality |                  |
+| Location    | [[Broken Heart]] |
 Profession: Mage
 Mostly skilled with Abjuration magic.  
 Avoids using magic around others when possible.
