@@ -1,0 +1,1 @@
+Can cast Aganzarr's Scorcher 1/long rest.
