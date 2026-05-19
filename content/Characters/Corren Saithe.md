@@ -9,7 +9,7 @@ tags:
 | ----------- | ---------------- |
 | Nationality |                  |
 | Affiliation |                  |
-| Location    | [[Broken Heart]] |
+| Location    | [[Take Heart]] |
 
 Profession: Mage
 Mostly skilled with Abjuration magic.  

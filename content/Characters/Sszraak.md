@@ -8,6 +8,6 @@ tags:
 | ----------- | ---------------- |
 | Nationality |                  |
 | Affiliation |                  |
-| Location    | [[Broken Heart]] |
+| Location    | [[Take Heart]] |
 
 Blind mute

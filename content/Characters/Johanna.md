@@ -3,13 +3,15 @@ aliases:
   - Johanna
   - Jo
   - Johanna Bonnybluff
+  - Fakus Namus
+  - Alex Hamilton
 ---
 
 | Species     | [[Halfling]]                                                                                                                          |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]]                                                                                                           |
-| Affiliation | One of the captains of the [[Broken Heart]], Member of the [[Captains of the Broken Heart]], Part of the [[Crew of the Broken Heart]] |
-| Location    | [[Broken Heart]]                                                                                                                      |
+| Affiliation | One of the captains of the [[Take Heart]], Member of the [[Captains of the Broken Heart]], Part of the [[Crew of the Broken Heart]] |
+| Location    | [[Take Heart]]                                                                                                                      |
 
 [[Halfling]] navy sailor [[Rogue]]
 

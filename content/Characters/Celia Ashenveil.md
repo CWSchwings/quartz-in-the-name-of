@@ -8,5 +8,5 @@ tags:
 | ----------- | --------------------------- |
 | Nationality | [[Tir Zafiri\|Tir Zafirin]] |
 | Affiliation |                             |
-| Location    | [[Broken Heart]]            |
+| Location    | [[Take Heart]]            |
 

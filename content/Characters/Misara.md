@@ -8,7 +8,7 @@ tags:
 | ----------- | ----------------------- |
 | Nationality |                         |
 | Affiliation |                         |
-| Location    | [[Broken Heart]]        |
+| Location    | [[Take Heart]]        |
 
 
 From the group of prosecuted tieflings

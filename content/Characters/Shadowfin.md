@@ -1,5 +1,7 @@
 ---
 tags:
+aliases:
+  - Courier
 ---
 
 | Species     |     |

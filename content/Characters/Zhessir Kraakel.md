@@ -10,7 +10,7 @@ tags:
 | ----------- | ---------------- |
 | Nationality |                  |
 | Affiliation |                  |
-| Location    | [[Broken Heart]] |
+| Location    | [[Take Heart]] |
 
 
 [[Castaways of the Unknown Dinosaur Island]]  
